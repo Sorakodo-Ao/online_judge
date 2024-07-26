@@ -1,0 +1,9 @@
+server:
+  port: 9091
+spring:
+  application:
+    name: service-oj_code_sandbox
+#  cloud:
+#    nacos:
+#      discovery:
+#        server-addr: localhost:8848
